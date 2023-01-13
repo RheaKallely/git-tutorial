@@ -1,4 +1,10 @@
-# Version control with Git using terminal
+# Git Version Control Tutorial
+
+## Basic Version Control using Github Desktop
+
+Check out the slides [here](https://docs.google.com/presentation/d/10KpKDJYZdpAfZhK_YtrPJZJqOGL0hqMvNc5FFcaS0Rk/edit?usp=sharing) for the tutorial
+
+## Advanced Version Control using Terminal
 
 1. Creating a new repository on the command line:
 
